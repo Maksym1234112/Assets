@@ -2,4 +2,9 @@
     "name": "Sunset",
     "location": "West",
     "year": "1984"
+},
+{
+    "name": "Landscape",
+    "location": "East",
+    "year": "2003"
 }
